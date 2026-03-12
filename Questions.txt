@@ -1,0 +1,20 @@
+SECTION 1 — Foundations of AI & Machine Learning
+Q1. In your own words, explain the difference between Artificial Intelligence, Machine Learning, and Deep Learning.
+Q2. What is the fundamental difference between traditional programming and machine learning?
+Q3. Describe the three main types of machine learning and give one practical use case for each.
+Q4. What is a neural network, and how do the input layer, hidden layers, and output layer each contribute to a prediction?
+Q5. Explain overfitting and underfitting. What strategies can be used to address each?
+
+SECTION 2 — Training, Data & Model Mechanics
+Q6. Walk me through what happens during the training process of a machine learning model.
+Q7. What is a loss function, and why is it important during model training?
+Q8. What is the difference between training set, validation set, and test set? Why must each be kept separate?
+Q9. What are hyperparameters? Name three examples and explain how each affects model training.
+Q10. Explain the concept of gradient descent using an everyday analogy.
+
+SECTION 3 — Generative AI Core Concepts
+Q11. How does Generative AI differ from traditional discriminative AI? Provide a concrete example of each.
+Q12. What is an LLM (Large Language Model), and what makes a language model "large"?
+Q13. Explain how a Large Language Model generates text. Why does it produce one token at a time?
+Q14. What is the Transformer architecture, and what problem did it solve that earlier models could not?
+Q15. Explain the concept of attention in Transformers. Why is it considered a breakthrough?
